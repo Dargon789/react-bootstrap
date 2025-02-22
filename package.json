@@ -58,7 +58,7 @@
     "trailingComma": "all"
   },
   "dependencies": {
-    "@babel/runtime": "^7.22.5",
+    "@babel/runtime": "^7.26.7",
     "@restart/hooks": "^0.4.9",
     "@restart/ui": "^1.6.6",
     "@types/react-transition-group": "^4.4.6",
